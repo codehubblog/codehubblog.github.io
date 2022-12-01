@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Ali Hamrani's website</title>
+  <link>https://alihamraniblog.github.io/</link>
+  <description>Ali Hamrani's website</description>
+  <image>
+      <url>http://vitalik.ca/images/icon.png</url>
+      <title>Ali Hamrani's website</title>
+      <link>https://alihamraniblog.github.io/</link>
+  </image>
+
+<item>
+<title>سلام دینا</title>
+<link>https://alihamraniblog.github.io/general/2022/10/15/salamdonia.html</link>
+<guid>https://alihamraniblog.github.io/general/2022/10/15/salamdonia.html</guid>
+<pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>Hello world</title>
+<link>https://alihamraniblog.github.io/general/2020/10/24/hello.html</link>
+<guid>https://alihamraniblog.github.io/general/2020/10/24/hello.html</guid>
+<pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
